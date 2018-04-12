@@ -30,9 +30,9 @@ topFrame.pack()
 bottomFrame = Frame(root)
 bottomFrame.pack(side=BOTTOM)
 
-# Path to the Desktop
-inFolder = r"C:\\Users\Carol and Alex\Desktop" #r"/Users/wolf/Desktop"
-destination = r"C:\\Users\Carol and Alex\Desktop\UMUC HW" #r"/Users/wolf/Desktop/UMUC"
+# Path to the Desktop; Enter the path between the sets of double quotes
+inFolder = r""
+destination = r""
 
 # Create Header Label Greeting
 headerLabel = Label(topFrame,
